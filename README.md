@@ -7,7 +7,7 @@ I'm an **Information Technology** student with a passion for **knowledge** and a
 - 🛠 I love working on projects that challenge my skills and help me grow.
 - 🚀 I prefer learning new technologies and collaborating rather than focusing only on proficiency.
 - 🌐 [Check out my previous GitHub profile](https://github.com/ut-stack) — I lost access to it, but here's the link!
-
+![Statue of God](https://github.com/utkarshtripathi/utkarshtripathi/raw/main/statue-of-god.gif)
 
 ---
 
