@@ -8,6 +8,8 @@ I'm an **Information Technology** student with a passion for **knowledge** and a
 - 🚀 I prefer learning new technologies and collaborating rather than focusing only on proficiency.
 - 🌐 [Check out my previous GitHub profile](https://github.com/ut-stack) — I lost access to it, but here's the link!
 
+![Alt Text](https://tenor.com/view/australian-pat-cummins-australia-cricketer-gif-19480776)
+
 ---
 
 ## 🔧 Technologies I've Worked With:
