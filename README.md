@@ -2,13 +2,17 @@
 
 I'm an **Information Technology** student with a passion for **knowledge** and a drive to work on exciting projects. 💻 I believe in gaining knowledge over just proficiency, and that's why I love collaborating on various domains. If you're looking to collaborate, I'm all ears! 🎧
 
+---
+
 **Here's a bit about me:**
 - 🎓 I'm an IT student with diverse interests, from **Web Development** to **Data Science** and **Computer Vision**.
 - 🛠 I love working on projects that challenge my skills and help me grow.
 - 🚀 I prefer learning new technologies and collaborating rather than focusing only on proficiency.
 - 🌐 [Check out my previous GitHub profile](https://github.com/ut-stack) — I lost access to it, but here's the link!
 
-
+<p align="center">
+  <img src="https://github.com/ut-stax/ut-stax/blob/main/hello-world-animation.gif" alt="Hello World Animation" />
+</p>
 
 ---
 
@@ -28,6 +32,10 @@ I'm an **Information Technology** student with a passion for **knowledge** and a
 ### Databases:
 - MySQL (also familiar with MongoDB and Hadoop)
 
+<p align="center">
+  <img src="https://github.com/ut-stax/ut-stax/blob/main/statue-of-god.gif" alt="Statue of God" />
+</p>
+
 ---
 
 ## 🧑‍💻 Projects I've Worked On:
@@ -43,8 +51,11 @@ I'm an **Information Technology** student with a passion for **knowledge** and a
 - **Data Science Projects**:
   - Built a **CricBuzz Player Data Model** 🏏, fetching player performance data for T20, ODI, and Test matches.
 
+<p align="center">
+  <img src="https://github.com/ut-stax/ut-stax/blob/main/death-note.gif" alt="Death Note" />
+</p>
+
 ---
-![Statue of God](https://github.com/ut-stax/ut-stax/blob/main/statue-of-god.gif)
 
 ## 🤝 Let's Collaborate:
 
@@ -52,5 +63,6 @@ If you're working on something cool and need a collaborator, feel free to reach 
 
 - 📬 Email: [tripathiutkarsh790@gmail.com](mailto:tripathiutkarsh790@gmail.com)
 - 📷 Instagram: [@utk_rsh1011](https://www.instagram.com/utk_rsh1011/)
+- 💼 LinkedIn: [Utkarsh Tripathi](https://www.linkedin.com/in/utkarsh-tripathi-399206283/?originalSubdomain=in)
 
 Looking forward to connecting with like-minded developers and creators! ✨
