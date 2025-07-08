@@ -40,16 +40,18 @@ I'm an **Information Technology** student with a passion for **knowledge** and a
 
 ## 🧑‍💻 Projects I've Worked On:
 
-- **Hackathon Projects**: 
-  - Created a **Rock-Paper-Scissors** game 🪨📄✂️
-  - Built an **Image-to-PDF Converter** 📸➡️📄
-  - Developed a **School Website Clone** 🏫
+### 🚀 Hackathon Projects:
+- Created a **Rock-Paper-Scissors** game 🪨📄✂️  
+- Built an **Image-to-PDF Converter** 📸➡️📄  
+- Developed a **School Website Clone** 🏫  
+- **StudyZen**: AI-powered study planner & smart note assistant with summarization, productivity tools, and personalized tips for students. 🧠📚⚙️  
+- **Manasāroha**: Mental wellness companion with mood tracking, AI insights, PDF reports, Lottie UI, and SQLite-based auth system built with Streamlit & Plotly. 🌿📊🧘  
 
-- **Websites I've Cloned**:
-  - Adidas, Flipkart, and more! 🛒
+### 🌐 Websites I've Cloned:
+- **Adidas**, **Flipkart**, and more! 🛒  
 
-- **Data Science Projects**:
-  - Built a **CricBuzz Player Data Model** 🏏, fetching player performance data for T20, ODI, and Test matches.
+### 📊 Data Science Projects:
+- Built a **CricBuzz Player Data Model** 🏏 — fetching player performance data for **T20**, **ODI**, and **Test** matches.
 
 <p align="center">
   <img src="https://github.com/ut-stax/ut-stax/blob/main/death-note.gif" alt="Death Note" />
